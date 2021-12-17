@@ -1,2 +1,0 @@
-# Restaurants.github.io
-Restaurants
